@@ -20,4 +20,6 @@ void main(){
     print(mobil2.merk); 
     print(mobil2.model); 
     print(mobil2.tahun); 
+    mobil2.klakson(); // Memanggil method klakson
+    // Output: Beep! Bepp!
 }
